@@ -34,10 +34,10 @@ function sum() {
 sum();
 
 // let examples below
-let firstName = "Abu";
-firstName = "Sayed";
-
 // let variables can be updated but not re-declared
+let firstNam = "Abu";
+firstNam = "Sayed";
+
 let firstName = "Abu";
 let firstName = "Sayed";
 
