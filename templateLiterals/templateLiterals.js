@@ -29,7 +29,6 @@ console.log("fifty is" + (a + b) + "and\nnot" +
 console.log(`fifty is ${a + b} + and
 not ${2 * a + b}.`);
 
-
 // es6 strings.METHODS
 const firstName = "rakib";
 const fName = `${firstName}`;
